@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BankTransferApp/1.0.0": {
+        "runtime": {
+          "BankTransferApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankTransferApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
